@@ -1,0 +1,22 @@
+{
+  "name": "homework-two",
+  "version": "2.0.0",
+  "files": [
+    "bin/",
+    "index.js",
+    "README.md"
+  ],
+  "main": "index.js",
+  "bin": {
+    "homework-two": "./index.js"
+  },
+  "scripts": {
+    "fs": "node fs",
+    "path": "node path",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
